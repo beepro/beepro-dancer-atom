@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "beepro-dancer-atom:toggle"
-  },
   "repository": "https://github.com/atom/beepro-dancer-atom",
   "license": "MIT",
   "engines": {
