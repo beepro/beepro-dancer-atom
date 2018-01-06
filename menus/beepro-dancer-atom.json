@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle beepro-dancer-atom",
+        "command": "beepro-dancer-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "beepro-dancer-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "beepro-dancer-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
