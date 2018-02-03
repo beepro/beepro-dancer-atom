@@ -1,7 +1,9 @@
 {
   "extends": "standard",
+  "env": {
+    "browser": true
+  },
   "globals": {
-      "atom": true,
-      "WebSocket": true
+      "atom": true
   }
 }
