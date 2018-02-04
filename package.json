@@ -13,7 +13,7 @@
     "fs-extra": "^5.0.0",
     "git-promise": "^0.3.1",
     "jschardet": "^1.6.0",
-    "waggle-dance": "^1.0.6"
+    "waggle-dance": "^1.0.7"
   },
   "devDependencies": {
     "eslint": "^4.15.0",
