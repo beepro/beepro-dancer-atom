@@ -1,6 +1,6 @@
-'use babel';
+'use babel'
 
-import BeeproDancerAtom from '../lib/beepro-dancer-atom';
+import BeeproDancerAtom from '../lib/beepro-dancer-atom'
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
