@@ -1,12 +1,9 @@
 {
   "extends": "standard",
+  "env": {
+    "browser": true
+  },
   "globals": {
-       "atom": true,
-       "fetch": true,
-       "interval": true,
-       "Headers": true,
-       "FormData": true,
-       "File" : true,
-       "WebSocket": true
-   }
+      "atom": true
+  }
 }
